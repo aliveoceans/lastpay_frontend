@@ -39,4 +39,4 @@
 - CORS is enabled for the frontend origin (`http://localhost:5173`).
 
 ## GitHub
-- Repository: [Link to GitHub repo] (to be shared upon submission).
+- Repository: [https://github.com/aliveoceans/lastpay_frontend].
